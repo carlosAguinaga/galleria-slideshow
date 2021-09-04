@@ -1,0 +1,28 @@
+
+
+.card-item {
+    /* border: solid 2px blue; */
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.image-card {
+    width: 100%;
+    overflow: hidden;
+}
+
+.card-description-container {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: start;
+    padding: 3px 10px;
+}
+.title-card{
+    
+}
+.subtitle-card{
+}
